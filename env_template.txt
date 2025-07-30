@@ -1,0 +1,14 @@
+# Environment Variables Template
+# Copy this file to .env and fill in your actual API keys
+
+# HubSpot API Configuration
+# Get your HubSpot API token from: https://developers.hubspot.com/docs/api/overview
+HUBSPOT_TOKEN=your_hubspot_api_token_here
+
+# Fireflies API Configuration  
+# Get your Fireflies API token from: https://app.fireflies.ai/api
+FIREFLIES_TOKEN=your_fireflies_api_token_here
+
+
+
+
